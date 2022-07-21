@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Plugins.meta
+    - Assets/Plugins/Android.meta
+    - Assets/Plugins/Android/AndroidManifest.xml
+    - Assets/Plugins/Android/AndroidManifest.xml.meta
+    - Assets/Plugins/Android/gradleTemplate.properties
+    - Assets/Plugins/Android/gradleTemplate.properties.meta
+    - Assets/Plugins/Android/mainTemplate.gradle
+    - Assets/Plugins/Android/mainTemplate.gradle.meta
+    - Assets/Samples.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Environments.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Environments/CubeRoom.obj
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Environments/CubeRoom.obj.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Environments/CubeRoom.prefab
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Environments/CubeRoom.prefab.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Environments/CubeRoom_BakedDiffuse.png
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Environments/CubeRoom_BakedDiffuse.png.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Environments/Materials.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Environments/Materials/CubeRoomEnvMat.mat
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Environments/Materials/CubeRoomEnvMat.mat.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/Icosahedron.obj
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/Icosahedron.obj.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/Materials.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/Materials/IcosahedronBlue.mat
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/Materials/IcosahedronBlue.mat.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/Materials/IcosahedronPink.mat
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/Materials/IcosahedronPink.mat.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/Materials/QuadSphereBlue.mat
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/Materials/QuadSphereBlue.mat.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/Materials/QuadSpherePink.mat
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/Materials/QuadSpherePink.mat.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/Materials/TriSphereBlue.mat
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/Materials/TriSphereBlue.mat.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/Materials/TriSpherePink.mat
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/Materials/TriSpherePink.mat.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/QuadSphere.obj
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/QuadSphere.obj.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/TriSphere.obj
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Models/TriSphere.obj.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scenes.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scenes/HelloCardboard.unity
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scenes/HelloCardboard.unity.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scenes/VrMode.unity
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scenes/VrMode.unity.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scripts.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scripts/CameraPointer.cs
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scripts/CameraPointer.cs.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scripts/CardboardStartup.cs
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scripts/CardboardStartup.cs.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scripts/ObjectController.cs
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scripts/ObjectController.cs.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scripts/VrModeController.cs
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scripts/VrModeController.cs.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Textures.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Textures/Icosahedron_Blue_BakedDiffuse.png
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Textures/Icosahedron_Blue_BakedDiffuse.png.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Textures/Icosahedron_Pink_BakedDiffuse.png
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Textures/Icosahedron_Pink_BakedDiffuse.png.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Textures/QuadSphere_Blue_BakedDiffuse.png
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Textures/QuadSphere_Blue_BakedDiffuse.png.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Textures/QuadSphere_Pink_BakedDiffuse.png
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Textures/QuadSphere_Pink_BakedDiffuse.png.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Textures/TriSphere_Blue_BakedDiffuse.png
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Textures/TriSphere_Blue_BakedDiffuse.png.meta
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Textures/TriSphere_Pink_BakedDiffuse.png
+    - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Textures/TriSphere_Pink_BakedDiffuse.png.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleSceneSettings.lighting
+    - Assets/Scenes/SampleSceneSettings.lighting.meta
+    - Assets/XR/Loaders/XR Loader.asset
+    - Assets/XR/Loaders/XR Loader.asset.meta
+    - Assets/XR/Settings/Windows MR Package Settings.asset
+    - Assets/XR/Settings/XR Settings.asset
+    - Assets/XR/Settings/XR Settings.asset.meta
+    - Assets/XR/XRGeneralSettings.asset
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/UnityConnectSettings.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
